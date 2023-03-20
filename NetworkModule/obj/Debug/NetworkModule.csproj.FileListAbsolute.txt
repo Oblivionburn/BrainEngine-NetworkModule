@@ -1,0 +1,6 @@
+F:\Development\BrainEngine\NetworkModule\NetworkModule\bin\Debug\NetworkModule.dll
+F:\Development\BrainEngine\NetworkModule\NetworkModule\bin\Debug\NetworkModule.pdb
+F:\Development\BrainEngine\NetworkModule\NetworkModule\obj\Debug\NetworkModule.csproj.AssemblyReference.cache
+F:\Development\BrainEngine\NetworkModule\NetworkModule\obj\Debug\NetworkModule.csproj.CoreCompileInputs.cache
+F:\Development\BrainEngine\NetworkModule\NetworkModule\obj\Debug\NetworkModule.dll
+F:\Development\BrainEngine\NetworkModule\NetworkModule\obj\Debug\NetworkModule.pdb
